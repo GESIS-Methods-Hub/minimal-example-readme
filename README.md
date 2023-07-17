@@ -1,8 +1,4 @@
----
-title: "Minimal Example of Tutorial as README"
-author:
-  - name: Raniere Silva
----
+# Minimal Example of Tutorial as README
 
 This [`README.md`](https://github.com/GESIS-Methods-Hub/minimal-example-readme/blob/main/README.md) shows all **required** metadata used by [`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub).
 
