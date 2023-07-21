@@ -1,6 +1,16 @@
 # Minimal Example of Tutorial as README
 
-This [`README.md`](https://github.com/GESIS-Methods-Hub/minimal-example-readme/blob/main/README.md) shows all **required** metadata used by [`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub).
+This [`README.md`](https://github.com/GESIS-Methods-Hub/minimal-example-readme/blob/main/README.md) illustrates all **required** metadata used by [`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub).
+
+## Metadata
+
+| Markdown YAML front matter key | Required | Note |
+| --- | --- | --- |
+| title | | The first `<h1>` section heading. |
+| subtitle | | Not supported. |
+| author | | Retrieve from latest Git commit information. |
+| image | | Must be `cover.jpg`. |
+| image-alt | | Not supported. |
 
 ## Supported Features
 
