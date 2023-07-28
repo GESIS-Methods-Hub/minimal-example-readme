@@ -1,6 +1,6 @@
 # Minimal Example of Tutorial as README
 
-This [`README.md`](https://github.com/GESIS-Methods-Hub/minimal-example-readme/blob/main/README.md) illustrates all **required** metadata used by [`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub).
+This [`README.md`](https://github.com/GESIS-Methods-Hub/minimal-example-readme/blob/main/README.md) illustrates all **required** metadata used by [`andrew`](https://github.com/GESIS-Methods-Hub/andrew).
 
 ## Metadata
 
@@ -14,9 +14,9 @@ This [`README.md`](https://github.com/GESIS-Methods-Hub/minimal-example-readme/b
 
 ## Supported Features
 
-[`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub) uses [Quarto](https://quarto.org/) and [GitHub](https://github.com) uses [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) to convert Markdown to HTML. Because Quarto and GFM are not 100% compatible, we provide a comparison of features in the next table.
+[`andrew`](https://github.com/GESIS-Methods-Hub/andrew) uses [Quarto](https://quarto.org/) and [GitHub](https://github.com) uses [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) to convert Markdown to HTML. Because Quarto and GFM are not 100% compatible, we provide a comparison of features in the next table.
 
-| Feature | [`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub) | [GFM](https://github.github.com/gfm/) | Notes |
+| Feature | [`andrew`](https://github.com/GESIS-Methods-Hub/andrew) | [GFM](https://github.github.com/gfm/) | Notes |
 | --- | --- | --- | --- |
 | Pandoc’s Markdown | 👍 | 😥 | Markup for tables is different |
 | Callout Blocks | 👍 | 😥 | GitHub does **not** have the CSS for callout blocks |
