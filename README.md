@@ -35,6 +35,9 @@ Although footnotes are supported, the use of footnotes is discouraged[^1].
 
 Math can be written using [LaTeX](https://www.latex-project.org/) and is render by [MathJax](https://www.mathjax.org/). Both inline, for example $x$, and display, for example $$x = \sqrt{a^2 + b^2}\text{,}$$ is supported.
 
+Inclusion of images are supported.
+
+!["We are open"](img/cover.jpg)
 
 ## Binder
 
